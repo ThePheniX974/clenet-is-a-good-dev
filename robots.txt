@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clenet.is-a-good.dev/sitemap.xml
